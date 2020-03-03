@@ -1,0 +1,87 @@
+html{
+    background-color: #95E1FF;
+    font-family: arial;
+}
+
+div{
+    border: 1px solid;
+    margin-right: 47%;
+    padding-top: 10px;
+    background-color: #FFFFE0;
+
+}
+table{
+
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+div.enero table{
+    border: none;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+div.enero td{
+    width: 40px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+div.enero th{
+    width: 40px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+div.enero caption{
+    text-align: center;
+    letter-spacing: 6px;
+    font-weight: bold;
+    font-style: italic;
+}
+div.febrero table{
+    border: none;
+    border-collapse: collapse;
+    text-align: right;
+
+}
+
+div.febrero td{
+    width: 40px;
+    border-top: none;
+    border-bottom: none;
+    font-size: 135%;
+}
+div.febrero th{
+    width: 40px;
+    border-top: none;
+    border-bottom: none;
+}
+div.febrero caption{
+    text-align: right;
+    font-weight: bold;
+}
+
+
+div.marzo table{
+
+    border-collapse: collapse;
+}
+div.marzo td{
+    width: 50px;
+    height: 50px;
+    font-size: 80%;
+    text-align: left;
+}
+div.marzo th{
+    width: 50px;
+    height: 50px;
+    text-align: center;
+}
+div.marzo caption{
+    text-align: right;
+    font-weight: bold;
+    text-align: left;
+}
